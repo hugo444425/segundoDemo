@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_share">Compartir</string>
+    <string name="msg_share">Te comparto la info de %1$S %2$S</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_countrie_detail">CountrieDetailActivity</string>
+
+</resources>
